@@ -1,6 +1,6 @@
 # Towards Trustworthy Biometrics: Generalized Detection of Diffusion Generated Fingerprint Forgeries in Partial Scenarios
 
-This repository contains the open-source release of the fingerprint real/fake detection project from `IMG_ResNet_detector_v4`.
+This repository contains the open-source release of the fingerprint real/fake detection project from `Towards Trustworthy Biometrics: Generalized Detection of Diffusion Generated Fingerprint Forgeries in Partial Scenarios`.
 
 ## Paper Overview
 
@@ -44,8 +44,8 @@ pip install -r requirements.txt
 
 ## Downloads
 
-- Dataset download link: `http://gofile.me/7p5O4/t49hepFzZ`
-- Best model checkpoint link: `http://gofile.me/7p5O4/Rrnldjigs`
+- Dataset download link: `http://gofile.me/7p5O4/HjNLjRKYJ`
+- Best model checkpoint link: `http://gofile.me/7p5O4/HPDXnAtbz`
 
 ## Dataset Layout
 
