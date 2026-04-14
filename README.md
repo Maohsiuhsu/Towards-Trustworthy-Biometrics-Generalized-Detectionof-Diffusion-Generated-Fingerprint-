@@ -97,12 +97,6 @@ bash train.sh
 bash eval.sh
 ```
 
-### Export test set to NPZ (optional)
-
-```bash
-bash export_eval_test_npz.sh
-```
-
 ## Notes for Open-Source Use
 
 - Local machine absolute paths were replaced with portable relative defaults.
