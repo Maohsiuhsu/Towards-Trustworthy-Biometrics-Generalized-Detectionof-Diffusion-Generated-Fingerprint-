@@ -12,7 +12,6 @@ env/
 # Project artifacts
 checkpoints/
 results/
-npz/
 logs/
 
 # TensorBoard

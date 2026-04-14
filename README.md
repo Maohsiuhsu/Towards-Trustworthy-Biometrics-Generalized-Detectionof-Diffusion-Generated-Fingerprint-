@@ -1,4 +1,4 @@
-# IMG ResNet Detector v4 (Open Source Release)
+# Towards Trustworthy Biometrics: Generalized Detection of Diffusion Generated Fingerprint Forgeries in Partial Scenarios
 
 This repository contains the open-source release of the fingerprint real/fake detection project from `IMG_ResNet_detector_v4`.
 
@@ -7,7 +7,7 @@ This repository contains the open-source release of the fingerprint real/fake de
 This project is based on the paper **"Towards Trustworthy Biometrics: Generalized Detection of Diffusion-Generated Fingerprint Forgeries in Partial Scenarios"**.
 The main goal is to build a robust detector that can generalize across multiple diffusion/generative fingerprint forgery sources while preserving strong performance under partial fingerprint conditions.
 
-- Paper file: `fig/Towards_Trustworthy_Biometrics__Generalized_Detection_of_Diffusion_Generated_Fingerprint_Forgeries_in_Partial_Scenarios (1).pdf`
+- IEEE Xplore: [Towards Trustworthy Biometrics: Generalized Detection of Diffusion-Generated Fingerprint Forgeries in Partial Scenarios](https://ieeexplore.ieee.org/document/11480156)
 
 ### Paper Figures
 
@@ -100,5 +100,5 @@ bash eval.sh
 ## Notes for Open-Source Use
 
 - Local machine absolute paths were replaced with portable relative defaults.
-- Training artifacts (e.g. checkpoints/results/npz outputs) are intentionally excluded from versioned source.
+- Training artifacts (e.g. checkpoints/results outputs) are intentionally excluded from versioned source.
 - If you want to use your own class names for fake generation methods, update `eval_config.py` and script args.
